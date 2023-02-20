@@ -1,4 +1,4 @@
-# How to display list of Wi-Fi connections
+# How to display list of Wi-Fi connections in Windows
 
 ```
 1. open cmd
